@@ -12,6 +12,7 @@
   </p>
 </div>
 
+<img src="CME.gif" alt="CME">
 
 <!-- TABLE OF CONTENTS -->
 <details>
